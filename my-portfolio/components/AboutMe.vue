@@ -14,16 +14,15 @@
         </p>
         <!-- Skills -->
          <div class="flex flex-wrap justify-center gap-x-8 gap-y-4 mb-8">
-            <span class="text-primary bg-white px-4 py-2 rounded-lg shadow">Javascript/Typescript</span>
-            <span class="text-primary bg-white px-4 py-2 rounded-lg shadow">React/NextJS</span>
-            <span class="text-primary bg-white px-4 py-2 rounded-lg shadow">Vue/Nuxt</span>
-            <span class="text-primary bg-white px-4 py-2 rounded-lg shadow">Angular</span>
-            <span class="text-primary bg-white px-4 py-2 rounded-lg shadow">Javascript/Typescript</span>
-            <span class="text-primary bg-white px-4 py-2 rounded-lg shadow">Javascript/Typescript</span>
-            <span class="text-primary bg-white px-4 py-2 rounded-lg shadow">Javascript/Typescript</span>
-            <span class="text-primary bg-white px-4 py-2 rounded-lg shadow">Javascript/Typescript</span>
-            <span class="text-primary bg-white px-4 py-2 rounded-lg shadow">Javascript/Typescript</span>
-            <span class="text-primary bg-white px-4 py-2 rounded-lg shadow">Javascript/Typescript</span>
+            <skill-chip>Javascript/Typescript</skill-chip>
+            <skill-chip>React/NextJS</skill-chip>
+            <skill-chip>Vue/Nuxt</skill-chip>
+            <skill-chip>Javascript/Typescript</skill-chip>
+            <skill-chip>React/NextJS</skill-chip>
+            <skill-chip>Vue/Nuxt</skill-chip>
+            <skill-chip>Javascript/Typescript</skill-chip>
+            <skill-chip>React/NextJS</skill-chip>
+            <skill-chip>Vue/Nuxt</skill-chip>
          </div>
       </div>
     </section>
