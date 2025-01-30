@@ -18,8 +18,8 @@
         <div class="grid grid-cols-3 gap-6">
           <!-- Top row -->
           <img src="~/assets/images/angular-svgrepo-com.svg" alt="React Logo" class="w-20 h-20 mx-auto">
-          <img src="~/assets/images/react-svgrepo-com.svg" alt="Angular Logo" class="w-20 h-20 mx-auto">
-          <img src="~/assets/images/vue-svgrepo-com.svg" alt="Vue Logo" class="w-20 h-20 mx-auto">
+          <img src="~/assets/images/react-bw-svgrepo-com.svg" alt="Angular Logo" class="w-20 h-20 mx-auto">
+          <img src="~/assets/images/vue-bw-svgrepo-com.svg" alt="Vue Logo" class="w-20 h-20 mx-auto">
   
           <!-- Bottom row (Centered across 3 columns) -->
           <div class="col-span-3 flex justify-center gap-12">

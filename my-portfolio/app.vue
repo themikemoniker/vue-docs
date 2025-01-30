@@ -3,6 +3,7 @@
   <div class="bg-neutral">
     <Header />
     <Hero />
+    <AboutMe />
     <slot />
   </div>
 </template>
@@ -10,4 +11,5 @@
 <script setup lang="ts">
 import Header from './components/Header.vue';
 import Hero from './components/Hero.vue';
+import AboutMe from './components/AboutMe.vue';
 </script>
