@@ -1,0 +1,4 @@
+[build]
+  command = "corepack enable && pnpm install --frozen-lockfile && pnpm build"
+  publish = "my-portfolio/dist"
+  base = "my-portfolio"
