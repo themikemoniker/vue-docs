@@ -4,6 +4,7 @@
     <Header />
     <Hero />
     <AboutMe />
+    <curved-divider />
     <section id="showcase" class="py-16 bg-slate-200">
       <h2 class="text-primary text-3xl mb-8 text-center">
         My Work
