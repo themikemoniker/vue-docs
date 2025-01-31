@@ -10,12 +10,13 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/kit": "^3.15.4",
+    "nuxi": "^3.21.1",
     "nuxt": "^3.15.4",
     "vue": "latest",
-    "vue-router": "latest",
-    "@nuxt/kit": "^3.15.4"
+    "vue-router": "latest"
   },
-"packageManager": "npm@10.7.0",
+  "packageManager": "npm@10.7.0",
   "devDependencies": {
     "@nuxt/kit": "^3.15.4",
     "@nuxtjs/tailwindcss": "^6.13.1",
