@@ -19,8 +19,9 @@
   
   <script setup lang="ts">
   const headerLinks = [
-    { name: "About", link: "#about" },
-    { name: "Portfolio", link: "#portfolio" },
-    { name: "Contact", link: "#contact" },
+    { name: "Linkedin", link: "https://www.linkedin.com/in/yourprofile" },
+    { name: "Github", link: "https://github.com/themikemoniker" },
+    { name: "Resume", link: "/documents/JordanCarlileResumeJan2025.pdf" },
+    { name: "Email Me", link: "mailto:jordancarlilepersonal@gmail.com?subject=Hey Jordan! I saw your portfolio and wanted to send you an email."}
   ];
   </script>

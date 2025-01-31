@@ -1,8 +1,9 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
+
 export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
   modules: ["@nuxtjs/tailwindcss"],
-  css: ["~/assets/css/tailwind.css"], // Ensure this points to the right file
+  css: ["~/assets/css/tailwind.css"],
   app: {
     head: {
       link: [

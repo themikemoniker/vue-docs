@@ -14,20 +14,27 @@
         </p>
         <!-- Skills -->
          <div class="flex flex-wrap justify-center gap-x-8 gap-y-4 mb-8">
-            <skill-chip>Javascript/Typescript</skill-chip>
-            <skill-chip>React/NextJS</skill-chip>
-            <skill-chip>Vue/Nuxt</skill-chip>
-            <skill-chip>Javascript/Typescript</skill-chip>
-            <skill-chip>React/NextJS</skill-chip>
-            <skill-chip>Vue/Nuxt</skill-chip>
-            <skill-chip>Javascript/Typescript</skill-chip>
-            <skill-chip>React/NextJS</skill-chip>
-            <skill-chip>Vue/Nuxt</skill-chip>
-         </div>
+            <skill-chip>Javascript | Typescript</skill-chip>
+            <skill-chip>React | NextJS</skill-chip>
+            <skill-chip>Vue | Nuxt</skill-chip>
+            <skill-chip>Angular v19</skill-chip>
+            <skill-chip>Python | FastAPI</skill-chip>
+            <skill-chip>Python | Django</skill-chip>
+            <skill-chip>Python | Flask</skill-chip>
+            <skill-chip>NodeJS | Typescript</skill-chip>
+            <skill-chip>Express</skill-chip>
+            <skill-chip>NestJS</skill-chip>
+            <skill-chip>PHP | Laravel</skill-chip>
+            <skill-chip>Java | Spring Boot</skill-chip>
+        </div>
+        <button
+            @click="useScrollTo('showcase')"
+            class="bg-primary text-white px-8 py-4 rounded-full hover:bg-opacity-90 transition duration-300">
+            View My Work
+        </button>
       </div>
     </section>
   </template>
   
   <script setup lang="ts">
-
   </script>

@@ -23,19 +23,19 @@
 <script setup lang="ts">
 const projects = [
   {
-    name: "Bigquery News Map",
-    description: "Mapbox map populated by news articles stored and queried with Google BigQuery big data solution.",
+    name: "FIU Security Research Hub",
+    description: "React app with python backend. Uses Mapbox with custom layers to populate locations from news articles stored and queried with Google BigQuery big data solution.",
     image: "/images/FIU-screenshot.png"
   },
   {
-    name: "Bigquery News Map",
-    description: "Mapbox map populated by news articles stored and queried with Google BigQuery big data solution.",
-    image: "/images/FIU-screenshot.png"
+    name: "Landis Responsive Web App",
+    description: "Vue and node app using graphql. Enabling signup and onboarding as well as internal property and client management.",
+    image: "/images/landis-desktop.png"
   },
   {
-    name: "Bigquery News Map",
-    description: "Mapbox map populated by news articles stored and queried with Google BigQuery big data solution.",
-    image: "/images/FIU-screenshot.png"
+    name: "Integrichain Contracts and Pricing Platform",
+    description: "Angular application with Flask backend to enable Government Pricing, Rebate Management, Chargeback Management, and Script Management.",
+    image: "/images/integrichain-overview.png"
   }
 ]
 </script>
